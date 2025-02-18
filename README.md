@@ -6,7 +6,7 @@
 📊 **Specialized in:** Data Visualization, Dashboards, Machine Learning, Report Automation  
 
 ## 📌 Featured Projects  
-### 🚀  
+### 🚀  https://github.com/Arthi9688/PowerBI-projects
 📊 **Power BI dashboard for business insights.**  
 
 ## 📫 Let's Connect!  
