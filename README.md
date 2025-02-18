@@ -6,7 +6,7 @@
 📊 **Specialized in:** Data Visualization, Dashboards, Machine Learning, Report Automation  
 
 ## 📌 Featured Projects  
-### 🚀 [Plant Co Performance Dashboard](https://github.com/yourusername/PlantCo-Dashboard)  
+### 🚀  
 📊 **Power BI dashboard for business insights.**  
 
 ## 📫 Let's Connect!  
