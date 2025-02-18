@@ -10,4 +10,4 @@
 📊 **Power BI dashboard for business insights.**  
 
 ## 📫 Let's Connect!  
-[![LinkedIn]([www.linkedin.com/in/arthi-anbalagan-b71b64208](https://www.linkedin.com/in/arthi-anbalagan-b71b64208/))  
+https://www.linkedin.com/in/arthi-anbalagan-b71b64208/
